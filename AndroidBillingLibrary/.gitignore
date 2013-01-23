@@ -1,2 +1,6 @@
-bin
+.bin
 gen
+.idea
+target/
+*.iml
+bin/
